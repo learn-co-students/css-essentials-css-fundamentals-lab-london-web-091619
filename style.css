@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+ 
+nav a{
+    background-color: #03A9F4;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+#featured-property img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#featured-property figcaption {
+    font-size: small;
+    text-align: center;
+}
+
+#featured-property p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+#details {
+      text-align: center;
+}
+
+
+#details div {
+    width: 25%;
+    display: block;
+    float: left;
+    background-color: #03a9f4a6;
+    color: white;
+}
+
+#details a {
+  color: white;
+}
